@@ -1,3 +1,19 @@
-# go-example
-create example app each branch
-- [HTTP-REST-API](https://github.com/kimkiyong0612/go-example/tree/HTTP-REST-API)
+### go-example
+create example cli app 
+
+> reference https://dev.to/aurelievache/learning-go-by-examples-part-3-create-a-cli-app-in-go-1h43
+
+#### Usage
+- build
+```
+make build
+```
+- run
+```
+make run
+```
+
+- demo(show general operation)
+```
+make demo
+```
