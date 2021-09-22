@@ -10,7 +10,8 @@ run:
 
 # Remove all retrieved *.png files
 clean:
-	rm -rf img && rm -rf bin
+	rm -rf img
+	rm -rf bin
 
 ## demo
 demo:
